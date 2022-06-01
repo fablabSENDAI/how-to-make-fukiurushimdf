@@ -1,8 +1,11 @@
 ---
 layout: default
-title: readme
-nav_exclude: true
+title: 00.Introduction
+nav_order: 1
 ---
+
+# 00.Introduction
+<br>
 
 木材を繊維状にほぐしたものを接着剤で固めて作られるMDFは、  <br>
 レーザー加工で使用されることの多い素材です。  <br>
